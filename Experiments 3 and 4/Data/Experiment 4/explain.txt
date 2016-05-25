@@ -1,0 +1,419 @@
+=== Subject 48 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            The smallest crystals are the lightest and the larger ones are the darkest.  Same colors, varying size and shade.
+        Explain:
+            The smallest were the lighest and the darkest were the largest.
+    Condition 2 Training space 0
+        Describe:
+            Similar sizes of the same color.  Wide range of different shades.
+        Explain:
+            Same color, wide range of shades, varying sizes.
+    Condition 3 Training space 0
+        Describe:
+            They are relatively similar in length with varying shades of the same color. 
+        Explain:
+            I chose a third color because it was a different kind. I chose similar lengths and the same color in varying shades.
+
+=== Subject 54 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            j
+        Explain:
+            j
+    Condition 2 Training space 0
+        Describe:
+            h
+        Explain:
+            h
+    Condition 3 Training space 0
+        Describe:
+            j
+        Explain:
+            k
+
+=== Subject 60 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            The longer crystals were darker and the shorter ones were lighter
+        Explain:
+            Using the pattern i observed in the previous set of crystals I did the same thing I made the longer crystals darker and shorter crystals lighter
+    Condition 2 Training space 0
+        Describe:
+            The shorter length minerals are darker than the longer length minerals
+        Explain:
+            I made the shorter length crystals darker and the longer length crystals darker beacuse I noticed this pattern in the previous samples
+    Condition 3 Training space 0
+        Describe:
+            The sets seems to all be different shades of the same color and they vary in length
+        Explain:
+            The other two colors seemed to be on opposite sides of the spectrum so blue seemed to be the color in the middle
+
+=== Subject 66 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            length corresponds with opacity. the smaller the crystal the higher the opacity and less vibrant the color
+        Explain:
+            i used the same rules as i observed.  the smaller the length the less opacity. 
+    Condition 2 Training space 0
+        Describe:
+            the length corresponds to the level of opacity.  the longer the length the less vibrant the color. 
+        Explain:
+            ordered the opacity of the color by the length of the crystal. 
+    Condition 3 Training space 0
+        Describe:
+            They are small to medium length.  Have the same tonal qualities for each color.  Pastel colors. Varying opacities.
+        Explain:
+            Green blue and yellow seemed to relate the most as a color set.  I changed the opacities for the yellows like I thought was done for the other minerals. 
+
+=== Subject 49 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            The longer the crystal the darker the color. Crystals of one mineral are all the same color but different shades.
+        Explain:
+            Following the pattern from the previous two types of crystals, the longest crystal is the darkes and the shorter the crystal the lighter it is. 
+    Condition 2 Training space 1
+        Describe:
+            The shorter the crystal, the deeper the shade of color. All crystals of one mineral are the same color but different lengths and colors.
+        Explain:
+            I followed the pattern from the previous minerals from this planet where the shorter the crystal, the darker the shade. 
+    Condition 3 Training space 1
+        Describe:
+            The minerals from this planet vary in length and color. Crystals in the same category have varying lengths and shades of the same color. They all have similar shape except for the length.
+        Explain:
+            The other two minerals looked very similar except for the color. I picked a third color and made them of varying shades because for the other minerals shade was variable. Length also varied so it didn't seem important in classifying the mineral so I made mine vary as well. 
+
+=== Subject 55 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            3
+        Explain:
+            3
+    Condition 2 Training space 1
+        Describe:
+            3
+        Explain:
+            3
+    Condition 3 Training space 1
+        Describe:
+            3
+        Explain:
+            3
+
+=== Subject 61 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            None are the same length. None are the same color.
+        Explain:
+            By following the pattern of the previous crystals.
+    Condition 2 Training space 1
+        Describe:
+            They are all oriented the same way.
+        Explain:
+            They are similiar to all the other crystals.
+    Condition 3 Training space 1
+        Describe:
+            Uniform structure. Only vary in length and color slightly. 
+        Explain:
+            I didn't have a choice about the shape. However I made all the colors slightly different. I did the same with the lenght.
+
+=== Subject 67 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            The minerals from this planet are all different shades of the same color. They also vary in length.
+        Explain:
+            I based my guess on the patteren of the other minerals. I used descending shades of one color and of the length.
+    Condition 2 Training space 1
+        Describe:
+            They are all shades of the same color. The darkest shade is the smallest length and the lighter shade is the longer length.
+        Explain:
+            I followed the patter that the darker shade is the smaller length and the shade decreases as the length gets bigger.
+    Condition 3 Training space 1
+        Describe:
+            No two minerals are the same length. They are variations of shade from the same color.
+        Explain:
+            I made the third mineral all different lengths like the previous two minerals and used the same base color and just changed the shading. I followed the pattern of the other two minerals to guess what the third mineral would look like.
+
+=== Subject 50 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            They were of different sizes and different shades of the same color
+        Explain:
+            I made them different sizes and different shades of the same color
+    Condition 2 Training space 0
+        Describe:
+            Each was slightly longer than the other and a shade darker 
+        Explain:
+            I used the same concept of making each look longer than the other and a shade darker 
+    Condition 3 Training space 0
+        Describe:
+            each were slighlty longer than the other and different shades of the same color
+        Explain:
+            i made each longer than the other and different shades of the same color
+
+=== Subject 56 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            Their length is determined by the extent of their shade. If one's shade is low, it is short and if one's shade is high, it is long
+        Explain:
+            Based on the relationship between length and the shade. I made the longest one with the highest shade and shortest one with zero shade
+    Condition 2 Training space 1
+        Describe:
+            The length of the crystals is increased along with the decrease in shade
+        Explain:
+            Based on the two mineral samples, I made the shortest one with the most deep color and shade. Longest one with the most bright color
+    Condition 3 Training space 1
+        Describe:
+            First one is ordered with the shade except the last one. Second on also ordered with the shade but in opposite way to the first one. 
+        Explain:
+            I made a different length of minerals with different shade in them. 
+
+=== Subject 68 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            The shortest crystals seemes to be th loghtest in shade and the longe ones were more concentrated.
+        Explain:
+            The third mineral followed the same pattern. The longer the mineral, the darker the shade.
+    Condition 2 Training space 0
+        Describe:
+            The shorter crystals tend to be more concentrated in color. As the length of the crystal increases, the shade of its color lightens.
+        Explain:
+            The third mineral was in the same color family as the others. For the most part, they were in the blue and purple shades. The longer the crystal was, the lighter its shade.
+    Condition 3 Training space 0
+        Describe:
+            The color in the first set of crystals became more concentrated when they were mid-length. The shortest and longest crystals were the least concentrated in color. In the second set, the shortest and longest were the most concentrated in color.
+        Explain:
+            The longest and shortest (red) crystals were very lightly shaded.  The shortest and longest (yellow) crysals were heavily shaded.
+
+=== Subject 51 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            Some minerals have a stronger shade while the other mineral has a very faint shade.
+        Explain:
+            I thought that the Kappa - 3 would have a bluish/aquamarine-ish color because that's the color next on the color chart after green (Kappa - 3). 
+    Condition 2 Training space 1
+        Describe:
+            Beta-1 minerals and Beta-2 minerals seem to have the same length in average. The minerals do not share the same color, rather they have different shades of one distinct color.
+        Explain:
+            Beta - 1 minerals were in shades of green, and Beta - 2 minerals were in shades of blue. I guessed that Beta - 3 minerals would move up one color shade on the color chart. I also assumed that the maximum length for the Beta - 3 minerals would be only the half-length because I was only allowed to go up that far in making these crystals.
+    Condition 3 Training space 1
+        Describe:
+            The minerals on this planet seem to have colors in shades of purple and red.
+        Explain:
+            I thought the Epsilon - 3 minerals would have orange color because that was the color next to red on the color chart. 
+
+=== Subject 57 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            Longest mineral was darkest in color. As the mineral was shorter the length, the color was of a lighter shade. Thus, the shortest mineral was lightest in color.
+        Explain:
+            From the darkest shade and longest length, I assumed the previous mineral would be a sixth shorter and lighter and so on until the third mineral.
+    Condition 2 Training space 1
+        Describe:
+            Shortest mineral is darkest shade of color. The other minerals were descending and ascending in retrospect to color and length. The longest mineral is lightest shade of color, almost white. 
+        Explain:
+            After establishing the first mineral (the white/longest one), I approximated the second mineral being darker and shorter by a sixth, and then the third being darker and shorter by another sixth of the available spectrum and length.
+    Condition 3 Training space 1
+        Describe:
+            There was no clear corelation between length and color from the minerals of this planet.
+        Explain:
+            Since there was no clear relation between length and shade of color - other than that the shade and length had to be different from the others - I just depicted a random example different from the other minerals.
+
+=== Subject 63 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            color is darker when the mineral is longer and is lighter wehn mineral is smaller
+        Explain:
+            based off of previous models
+    Condition 2 Training space 1
+        Describe:
+            they are brighter in color when they are shorter in length, and duller in color when the are longer 
+            the are arrenged smaller at the top and longer at the bottom                                        
+        Explain:
+            based off of the previous models...but in a different color
+    Condition 3 Training space 1
+        Describe:
+            they are harder to organize, their is less of a correlation between length and color as there were in the previous samples
+        Explain:
+            I tried to follow the model that was given as best as I could, it seems as though it has a patter of light, dark, lighter, darker as opposed to a linear order like before
+
+=== Subject 69 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            They are long, and variant shades of orange and pink.
+        Explain:
+            I compared it to the color, length and shade of the other crystals.
+    Condition 2 Training space 0
+        Describe:
+            These minerals tend to be pale shades of light green, green, or green-yellow, and medium/long in lenghth.
+        Explain:
+            I guessed based on the color, length and shade of the first two crystals.
+    Condition 3 Training space 0
+        Describe:
+            Most of them are bright shades of light blue, blue and green, and they are long.
+        Explain:
+            I observed the other two types of minerals and saw that they tend to be similar colors and shades.
+
+=== Subject 52 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            The minerals are colored in few colors that are different in the shade. Their lengths are pretty similar, but there are of different length varing from medium~long. 
+        Explain:
+            From guessing from the two minerals that have been collected, I thought that the third mineral's color range must be from Red to Green. That is how I came up with the color range of minerals from Yellow to red. Also, I made some varieties in length of the crystals, which was observed in previous two crystals.
+    Condition 2 Training space 1
+        Describe:
+            The colors are the same for the samples. However, the shade increases as the length gets shorter. 
+        Explain:
+            From previous examples, I got two information. One is that, as the length gets longer, more shallow the color is. Second, The colors of the samples are most likely to be between Blue or Purple. Using those information, I created 6 samples.
+    Condition 3 Training space 1
+        Describe:
+            For the Emerald ones, the shade increases as the difference in the length between the median length increases.
+             For the Yellow ones, the shade decreases as the difference in the length between the median length increases.
+        Explain:
+            Using the information that I described in the previous question, I made the samples according to the relationships between the length and the shade, and the colors. 
+
+=== Subject 58 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            The longer the crystals are, the higher the level of saturation they have.
+        Explain:
+            We have red and blue before, so I thought the third one might be yellow series.
+            And they must be darker when they are longer.                                  
+    Condition 2 Training space 0
+        Describe:
+            the shorter, the darker
+        Explain:
+            purple-blue = red, so red..         
+            and the shorter, the more saturation
+    Condition 3 Training space 0
+        Describe:
+            same color in same series. darkness is randomly assigned
+        Explain:
+             same color (blue) in the seires.
+            saturation randomly selected     
+
+=== Subject 64 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            The first two are primary colors (blue and red) and the smaller the crystal is the less it is shaded. larger crystals have richer color. the last unknown sample had crystals that were larger than any of the others in groups Beta 1 and Beta 2. there were more crystals in the 3rd group also.
+        Explain:
+            I examined the first two groups and used the similarites that they shared as a basis for creating this third group, I made it green, because it seemed to be a harder color to work with than red, blue, or yellow.
+    Condition 2 Training space 0
+        Describe:
+            In these groups the smallest crystals are the darkes shaded. Also they are complimentary colors. The largest crystal is off white, but is not as big as even the smallest crystal in the thrid group.
+        Explain:
+            I looked at the first to and used their similarities again to create this one. Keeping the color the same, change the shade and length for each of them until there are crystals that look like they might have come from the same planet as the first two elements.
+    Condition 3 Training space 0
+        Describe:
+            There were fewer similarities between these two elements than there were on the first two planets. There are the same sized crystals as there were on the first two planets, but these are not shaded in the same way. The crystals in each of the first two groups on the first two planets were shaded proportionately to their length. There was a pattern that I could follow. In these two groups only the second shortest crystal is shaded the same ammout in both groups. I created the samples from one of the four crystals.
+        Explain:
+            I did not have any real way to distinguish which ones were to be a certain color, so I made this group without any real direction. It is what it is.
+
+=== Subject 70 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            My minerals were of medium to long lenght the color was a red which variated in shade across the spectrum and i picked red because red blue and yellow are primary colors.
+        Explain:
+            Because i felt that they had to grow in length and the color seemed like it should also be a primary color.
+    Condition 2 Training space 0
+        Describe:
+            i ordered them by increase in color and then because green was already at its smallest i made a bigger crystal that still was increasing in color almost as if it to start iver the brocess of size but with the still increase in shade...and with the red i was able to make a smaller so i went smaller and increased the shade
+        Explain:
+            i didnt change the length from what was generated and i simply added the increase in shade of a purple toned color 
+    Condition 3 Training space 0
+        Describe:
+            I ordered them by shade for the turqouise but my size for the purple but both the additional samples where of larger length than any other samples and had the highest possible shade
+        Explain:
+            i ordered them both by length and in an decrease shade of color
+
+=== Subject 53 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            n 
+        Explain:
+            t
+    Condition 2 Training space 1
+        Describe:
+            h
+        Explain:
+            h
+    Condition 3 Training space 1
+        Describe:
+            h
+        Explain:
+            k
+
+=== Subject 59 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            Their color is the same. They vary shade and length by equal intervals.
+        Explain:
+            I tried to make these crystals have the same basic color and vary in length and shade by equal intervals.
+    Condition 2 Training space 0
+        Describe:
+            I noted same hue and inverse relation between shade and length.
+        Explain:
+            Tried to arrange them with inverse shade and length.
+    Condition 3 Training space 0
+        Describe:
+            I couldn't find any sort of pattern to these crystals.
+        Explain:
+            I guessed that the hue should be the same, but beyond that it was random.
+
+=== Subject 65 ===
+Phase 2
+    Condition 1 Training space 0
+        Describe:
+            They are shaded red and their intensity of color increases as length increases
+        Explain:
+            The first two were yellow and blue, so the third would be the third primary color, red.  The pattern of increasing intensity as length increases is also held
+    Condition 2 Training space 0
+        Describe:
+            Color intensity increases as size decreases
+        Explain:
+            I made them blue because it is similar to the other colors used (darker blue and violet), the pattern of size with respect to color is the same.
+    Condition 3 Training space 0
+        Describe:
+            Color intensity is the greatest/east when the length is in the middle, intensity decreases/increases as length increases/decreases away from the middle.
+        Explain:
+            The first two are red and green, so the third primary color of light would be blue.  The color/length pattern is also the same.
+
+=== Subject 71 ===
+Phase 2
+    Condition 1 Training space 1
+        Describe:
+            Crystals are of varying length, with the maximum length being about 50% longer than the minimum length crystals. The color of each type of crystal is consistent for all lengths, but shorter crystals have less saturation and appear to be white beneath some threshold, which varies by type. 
+        Explain:
+            The base color is a mixture between the cyan and green of the other two. The crystals, being much shorter, are less saturated even at their maximum length. I attempted to make the different length crystals have saturation linearly related to their length.
+    Condition 2 Training space 1
+        Describe:
+            Crystal length is inversely proportional to color saturation. The relationship seems to be linear between length and saturation. 
+        Explain:
+            I chose a base color midway between the other two on the spectrum. I made evenly spaced samples in terms of length, using the full range of lengths allowed. I made the shortest sample the most saturated, the next shortest slightly less saturated, etc. such that the longest sample is nearly white. 
+    Condition 3 Training space 1
+        Describe:
+            The minerals, when arranged by size descending, have a pattern of saturation which has a steep slope to start with (saturation changes quickly), hits the critical value of saturation, then has a lower slope of the opposite sign on the other side, as the saturation goes toward the opposite of the critical saturation. Critical saturation is either fully saturated or fully unsaturated. 
+        Explain:
+            I chose to follow the same pattern of ramping as the sample on the right; where the endpoints are close to fully saturated and the critical saturation is near zero. I tried to make the change in saturation constant with respect to constant change in size
+
